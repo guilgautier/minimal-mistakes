@@ -7,6 +7,9 @@
 <loc>http://localhost:4000/publications/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/jekyll_steps/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/pdfs/CV_G-Gautier.pdf</loc>
 <lastmod>2020-10-21T12:41:44+02:00</lastmod>
 </url>
@@ -29,5 +32,9 @@
 <url>
 <loc>http://localhost:4000/pdfs/Gau20_manuscript.pdf</loc>
 <lastmod>2020-10-26T16:28:45+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/pdfs/Gau20_slides.pdf</loc>
+<lastmod>2020-10-27T17:05:04+01:00</lastmod>
 </url>
 </urlset>
